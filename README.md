@@ -4,7 +4,7 @@ A Python program designated to mass-finding [Chess.com](https://chess.com/) emai
 
 Example output:
 ```
-[name]: [email hint (if found)] | [display name]
+[name]: [email hint (if found)] | [display name (if found)]
 ```
 Example names.txt:
 ```
